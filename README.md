@@ -12,10 +12,10 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
     - [ ] Game Design & Interactive Media
     - [ ] Computer Science or related major (CS, CSE, Data Science, Informatics, etc) (please specify)
     - [ ] Art-related major (please specify)
-    - [ ] Undecided
+    - [*] Undecided
     - [ ] Other (please specify)
 
-3. What are you hoping to get out of this class?
+3. What are you hoping to get out of this class? A: I hope to learn the basic programming concepts needed in game design from this class, and I also want to use this knowledge to understand which is more suited for me: design or programming. Additionally, I hope this class will help me feel less confused about the programming parts in the group activities of my following game design courses.
 4. What, if anything, are you nervous about for this class?
 
 ## Prior Experience
@@ -25,10 +25,13 @@ The next questions ask about what (if any) prior experience you have. This class
 ### Development
 
 1. Programming (any languages/ frameworks)
+   A basic level of python
 
-2. Game development (any engine)
+3. Game development (any engine)
+   N/A
 
-3. Unity
+5. Unity
+   N/A
 
 ### Programming & Game Development Concepts
 
@@ -40,14 +43,17 @@ For the next questions, a programming or game development concept is presented:
 **These questions are not graded for accuracy! Answer honestly, don’t Google it.**
 
 1. Game design document
+   It's a document that include the game theme, setting, background, genre, plot, target markets and platforms, play mechanics and also have to clear and definite the style of visual design. Besides these, the production plan, development process and tiemline need to be included in the document. Technical requirements and hardware also should be mentioned in the document.
 
-2. Scope management
+3. Scope management
+   Scope management is mainly used to control the out-of-scope output that may occur during the game production process, which may eventually lead to delayed release or development failure. It mainly clarifies the content, plot, and gameplay required in the game.
 
-3. Iteration
+5. Iteration
+   Iteration is a process of revising the game constanly. Producer need to have the prototype for the game first, and give the prototype to some players for testing. During the testing, get the problems and player feedback from the game, then modify or improve the game base on these. Repeat this process until the game is officially released.
+7. Object-Oriented programming
 
-4. Object-Oriented programming
-
-5. Model-View-Controller architecture
+8. Model-View-Controller architecture
+   N/A
 
 ## Complete!
 
