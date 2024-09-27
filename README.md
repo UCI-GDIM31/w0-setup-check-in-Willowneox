@@ -51,9 +51,11 @@ For the next questions, a programming or game development concept is presented:
 5. Iteration
    Iteration is a process of revising the game constanly. Producer need to have the prototype for the game first, and give the prototype to some players for testing. During the testing, get the problems and player feedback from the game, then modify or improve the game base on these. Repeat this process until the game is officially released.
 7. Object-Oriented programming
-
-8. Model-View-Controller architecture
    N/A
+   
+
+9. Model-View-Controller architecture
+   Model is made by data. That create the basic logic of game. View is the visualization of the model, help player to understand the game. Controller is responsible for input and output. The operations from player will be inputted to the controller as the data change and then controller will output as view change to the player.
 
 ## Complete!
 
